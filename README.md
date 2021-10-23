@@ -18,4 +18,5 @@ Obs: É necessário o JAVA 17 para rodar os exemplos.
 ### Links novidades versões Java
 
 [Java 12](https://github.com/felipeNeves93/java-novidades-versoes/blob/master/src/br/com/novidades/versoes/java12/README.md)
+[Java 13](https://github.com/felipeNeves93/java-novidades-versoes/blob/master/src/br/com/novidades/versoes/java13/README.md)
 
