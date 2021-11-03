@@ -21,3 +21,5 @@ Obs: É necessário o JAVA 17 para rodar os exemplos.
 
 [Java 13](https://github.com/felipeNeves93/java-novidades-versoes/blob/master/src/br/com/novidades/versoes/java13/README.md)
 
+[Java 14](https://github.com/felipeNeves93/java-novidades-versoes/blob/master/src/br/com/novidades/versoes/java14/README.md)
+
